@@ -14,4 +14,4 @@ In your terminal/cmd prompt, change directory to where this script and your imag
 Say you have 3 images you want to use, called image1.png, image2.png and image3.png.
 Type the following into the terminal:
 
-python pygbconv.py out.gb image1.png image2.png image3.png
+python pygbconv3.py out.gb image1.png image2.png image3.png
