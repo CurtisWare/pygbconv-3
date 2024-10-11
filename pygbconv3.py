@@ -9,7 +9,7 @@
 # but the rom still works fine on emulators and hardware.
 
 # EXAMPLE USAGE:
-# python pygbconv.py out.gb image1.png image2.png image3.png
+# python pygbconv3.py out.gb image1.png image2.png image3.png
 
 import sys
 from PIL import Image
