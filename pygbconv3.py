@@ -5,6 +5,8 @@
 # A difference is that the original Python 2.7 version does not fail emulator rom header checks. I'm not sure how to fix this,
 # but the rom still works fine on emulators and hardware.
 
+# EXAMPLE USAGE:
+# python pygbconv.py out.gb image1.png image2.png image3.png
 
 import sys
 from PIL import Image
