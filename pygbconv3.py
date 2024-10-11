@@ -2,6 +2,9 @@
 # Python 3-esque syntax, certain variables are converted to bytes before they are concatenated, and maps are passed
 # into arguments as lists.
 # 
+# Please refer to the original Nitro2k01 blog post for more information:
+# https://blog.gg8.se/wordpress/2013/02/19/gameboy-project-week-7-a-rom-for-showing-custom-graphics/
+#
 # A difference is that the original Python 2.7 version does not fail emulator rom header checks. I'm not sure how to fix this,
 # but the rom still works fine on emulators and hardware.
 
